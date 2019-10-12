@@ -1,0 +1,74 @@
+body{
+  background-color:rgb(225, 209,193);
+  color: rgb(10,10,10);
+  font-family: "raleway",sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: raleway;
+  color: rgb(33,45,42);
+  font-size: 50px;
+  font-weight: lighter;
+}
+
+h2{
+  font-family: raleway;
+  color: grey;
+  font-weight: lighter
+  font-size: 30px;
+}
+
+a{
+  color: grey;
+  text-decoration: none;
+}
+
+a:hover{
+  font-size: 25px;
+  color: rgb(160,200,229);
+}
+
+#banner {
+  text-align: center;
+  background-image: url("images/beach.png");
+  padding: 150px 5px;
+  background-size: cover;
+  text-shadow: 0.5 px 0.5 px 0.5 px grey;
+}
+
+#banner h1{
+  color: grey;
+  font-size: 60px;
+}
+
+#banner p{
+  color: light grey;
+  font-size: 30px;
+  opacity: 0.8;
+}
+
+#footer {
+  background: rgb(229,241,251);
+  padding: 30px;
+  color: black;
+}
+
+.card {
+  padding: 30px;
+  font-weight: lighter;
+  font-size: 20px;
+
+}
+
+#footer a {
+  color: black;
+  font-size: 25px;
+}
+
+#footer a:hover{
+  font-size: 25px;
+  color: rgb(160,200,229);
+
+}
+
